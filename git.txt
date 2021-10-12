@@ -1,0 +1,24 @@
+git init
+로컬 리포지토리 지정
+
+초기등록
+git config --global user.email "이메일주소"
+git config --global user.name "유저이름"
+
+git status
+상태 확인
+git log
+커밋 리스트 확인
+git add (ㅁㅁㅁ.txt)
+스테이지에 올릴때
+git commit -m "내용(버전1,2..)"
+버전을 확정
+
+원격 저장소를 만든다(new repository)
+git remote add origin 리포지토리 주소
+git push origin master
+업로드 명령
+git clone 주소 .
+원격 리포지토리에서 복제(다운로드)
+git pull origin master
+원격 리포지토리의 변경사항을 로컬로 동기화
