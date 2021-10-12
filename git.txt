@@ -24,3 +24,5 @@ git pull origin master
 원격 리포지토리의 변경사항을 로컬로 동기화
 
 게장먹자
+
+놀러가자
