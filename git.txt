@@ -26,3 +26,5 @@ git pull origin master
 게장먹자
 
 놀러가자
+
+우리 언제만낭
